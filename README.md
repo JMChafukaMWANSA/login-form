@@ -29,7 +29,7 @@
 
        <tr>
         <td>password</td>
-        <td><input type="text" maxlength="12" name="firstname" required="required"></td>
+        <td><input type="text" maxlength="14" name="firstname" required="required"></td>
       </tr>
 
        <tr>
